@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ermili</h1>
+<h1 align="center">Hi 👋, I'm Ermili Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 - 👨‍💻 All of my projects are available at [https://er-med.github.io/Simo-Portfolio/](https://er-med.github.io/Simo-Portfolio/)
