@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ermili</h1>
 <h3 align="center">I am a JavaScript enthusiast and its React.js library.</h3>
 
-- 🌱 I’m currently learning **Legacy Responsive Web Design**
-
 - 👨‍💻 All of my projects are available at [https://er-med.github.io/Simo-Portfolio/](https://er-med.github.io/Simo-Portfolio/)
 
 - 💬 Ask me about **HTML5,CSS3,JS**
