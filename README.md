@@ -6,6 +6,7 @@
 - 💬 Ask me about **HTML5,CSS3,JS**
 
 - 📫 How to reach me **mohamedermili5@gmail.com**
+- Phone: 06.93.99.35.70
 
 
 <h3 align="left">Languages and Tools:</h3>
