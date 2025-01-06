@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://er-med.github.io/Simo-Portfolio/](https://er-med.github.io/Simo-Portfolio/)
 
-- 💬 Ask me about **HTML5,CSS3,JS**
-
 - 📫 How to reach me **mohamedermili5@gmail.com**
 - Phone: 06.94.10.38.69
 
