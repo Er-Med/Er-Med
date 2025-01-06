@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Ermili Mohamed</h1>
 <h3 align="center">I am passionate about JavaScript and React.js ."</h3>
 
-- 👨‍💻 All of my projects are available at [https://er-med.github.io/Simo-Portfolio/](https://er-med.github.io/Simo-Portfolio/)
+- 👨‍💻 Portfolio : https://www.ermilimohamed.com/
 
 - 📫 How to reach me **mohamedermili5@gmail.com**
 - Phone: 06.94.10.38.69
